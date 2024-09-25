@@ -12,4 +12,4 @@ C#, a language that works with dotnet, was used to create this program.
 
 # Learn Microsoft
 
-[Tutorial]([https://learn.microsoft.com/en-us/training/modules/dotnet-dependencies/3-exercise-dependency](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-8.0&tabs=visual-studio))
+[Tutorial](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-8.0&tabs=visual-studio)
